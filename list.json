@@ -1,0 +1,125 @@
+{
+  "apps": [
+    {
+      "name": "Discord",
+      "icon": "icon.svg",
+      "summary": "Cliente de chat en tiempo real",
+      "desc": "Accede a Discord directamente desde AnuraOS. Chatea con tus servidores y amigos sin salir del sistema.",
+      "package": "social.discord",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Social"
+    },
+    {
+      "name": "Instagram",
+      "icon": "icon.svg",
+      "summary": "Red social de fotos y vídeos",
+      "desc": "Navega por tu feed de Instagram, mira Stories y Reels, y sigue a tus contactos desde AnuraOS.",
+      "package": "social.instagram",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Social"
+    },
+    {
+      "name": "Reddit",
+      "icon": "icon.svg",
+      "summary": "El front page de internet",
+      "desc": "Explora comunidades, vota posts y debate en los mejores subreddits del mundo.",
+      "package": "social.reddit",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Social"
+    },
+    {
+      "name": "YouTube",
+      "icon": "icon.svg",
+      "summary": "Plataforma de vídeos de Google",
+      "desc": "Mira vídeos, shorts, directos y contenido de tus creadores favoritos en YouTube.",
+      "package": "media.youtube",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Media"
+    },
+    {
+      "name": "Spotify",
+      "icon": "icon.svg",
+      "summary": "Música en streaming",
+      "desc": "Reproduce música, podcasts y listas de reproducción con la versión web de Spotify.",
+      "package": "media.spotify",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Media"
+    },
+    {
+      "name": "Photopea",
+      "icon": "icon.png",
+      "summary": "Editor de imágenes estilo Photoshop",
+      "desc": "Editor gráfico profesional online compatible con PSD, XCF, Sketch y muchos más formatos. Gratis y sin instalación.",
+      "package": "tools.photopea",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Tools"
+    },
+    {
+      "name": "VS Code Web",
+      "icon": "icon.svg",
+      "summary": "Editor de código online",
+      "desc": "Visual Studio Code en el navegador. Edita proyectos de GitHub, abre repositorios y programa sin instalar nada.",
+      "package": "dev.vscode",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Development"
+    },
+    {
+      "name": "Google Drive",
+      "icon": "icon.svg",
+      "summary": "Almacenamiento en la nube de Google",
+      "desc": "Accede a tus archivos, Documentos, Hojas de cálculo y Presentaciones de Google directamente desde AnuraOS.",
+      "package": "productivity.drive",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Productivity"
+    },
+    {
+      "name": "Xbox Cloud Gaming",
+      "icon": "icon.svg",
+      "summary": "Juega a juegos de Xbox en la nube",
+      "desc": "Accede a más de 100 juegos de Xbox y PC directamente desde el navegador con Xbox Cloud Gaming. Solo necesitas una cuenta de Xbox Game Pass Ultimate.",
+      "package": "gaming.xbox",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Gaming"
+    },
+    {
+      "name": "GeForce NOW",
+      "icon": "icon.svg",
+      "summary": "Gaming en la nube de NVIDIA",
+      "desc": "Juega a tus juegos de PC en streaming con la potencia de las GPUs de NVIDIA. Compatible con Steam, Epic Games y más.",
+      "package": "gaming.geforcenow",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Gaming"
+    },
+    {
+      "name": "WhatsApp",
+      "icon": "icon.svg",
+      "summary": "Mensajería instantánea",
+      "desc": "Usa WhatsApp Web para chatear con tus contactos, enviar archivos y hacer videollamadas directamente desde AnuraOS.",
+      "package": "social.whatsapp",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Social"
+    },
+    {
+      "name": "TikTok",
+      "icon": "icon.svg",
+      "summary": "Vídeos cortos y tendencias",
+      "desc": "Explora el feed de TikTok, descubre tendencias y sigue a tus creadores favoritos desde AnuraOS.",
+      "package": "social.tiktok",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Social"
+    }
+  ],
+  "libs": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Iker Repo",
+  "description": "Apps web completas estilo marketplace oficial",
+  "maintainer": {
+    "name": "Iker",
+    "website": "https://github.com/iker"
+  },
+  "version": "1.0.0"
+}
